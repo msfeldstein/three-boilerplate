@@ -1,0 +1,16 @@
+{
+  "name": "@msfeldstein/three-boilerplate",
+  "version": "1.0.0",
+  "description": "All the boilerplate for a threejs scene",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@msfeldstein/full-screen-canvas": "^1.0.1",
+    "three": "^0.84.0",
+    "three-orbit-controls": "^82.1.0"
+  }
+}
